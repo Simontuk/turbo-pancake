@@ -285,11 +285,10 @@ NOTE:  For the adventurous, pressing just the object while in Normal mode
 
   5. Repeat steps 2 through 4 to put all the lines in correct order.
 
-     d) Can you learn too?
+     a) Roses are red,
      b) Violets are blue,
      c) Intelligence is learned,
-     a) Roses are red,
-
+     d) Can you learn too?
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -306,7 +305,7 @@ NOTE:  For the adventurous, pressing just the object while in Normal mode
 
   4. Repeat steps 2 and 3 until the first line is correct.
 
---->  Whan this lime was tuoed in, someone presswd some wrojg keys!
+--->  When this line was typed in, someone pressed some wrong keys!
 --->  When this line was typed in, someone pressed some wrong keys!
 
   5. Now move on to Lesson 3.2.
@@ -323,7 +322,7 @@ NOTE: Remember that you should be learning by use, not memorization.
 
   1. Move the cursor to the first line below marked --->.
 
-  2. Place the cursor on the u in lubw.
+  2. Place the cursor on the u in line.
 
   3. Type  cw  and the correct word (in this case, type  'ine'.)
 
@@ -331,7 +330,7 @@ NOTE: Remember that you should be learning by use, not memorization.
 
   5. Repeat steps 3 and 4 until the first sentence is the same as the second.
 
----> This lubw has a few wptfd that mrrf changing usf the change command.
+---> This line has a few words that need changing using the change command.
 ---> This line has a few words that need changing using the change command.
 
 Notice that  cw  not only replaces the word, but also places you in insert.

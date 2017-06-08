@@ -11,3 +11,6 @@ Editing this readme to learn the use of git.
 4. Now I can sync bidirectionally.
 
 5. I like git.
+
+Learning more and more 
+## This is definitively useful!
